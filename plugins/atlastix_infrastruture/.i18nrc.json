@@ -1,0 +1,7 @@
+{
+  "prefix": "atlastixInfrastruture",
+  "paths": {
+    "atlastixInfrastruture": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}
